@@ -4,7 +4,7 @@ Graduated in 2026 with a bachelor's in software engineering and stats minor. I'v
 
 ## Currently Learning
 
-I've been trying to get a better low-level understanding of computing, so that I have greater context when designing projects, writing code, or prompting LLMs. I'm doing some work in C to get a better understanding of memory management and pointers as I learn to work closer to the hardware. I'm also messing around with some embedded projects using a microcontroller (written in C++).
+I've been trying to get a better low-level understanding of computers, so that I have greater context when designing projects, writing code, or prompting LLMs. I'm doing some work in C to get a better understanding of memory management and pointers as I learn to work closer to the hardware. I'm also messing around with some embedded projects using a microcontroller (written in C++).
 
 ## Other Interests
 
