@@ -6,6 +6,8 @@ Graduated in 2026 with a bachelor's in software engineering and stats minor. I'v
 
 I've been trying to get a better low-level understanding of computers, so that I have greater context when designing projects, writing code, or prompting LLMs. I'm doing some work in C to get a better understanding of memory management and pointers as I learn to work closer to the hardware. I'm also messing around with some embedded projects using a microcontroller (written in C++).
 
+Also been doing a good amount of sports analytics to try and stay up to date with statistical methods. Most of that work is done in Python.
+
 ## Other Interests
 
 I am physically active and enjoy pretty much any form of a workout. I played sports for my whole life including baseball which I played through college. I also have a deep passion for music and listen to a wide variety of genres. I play the drums, and I am currently in the process of learning the piano.
