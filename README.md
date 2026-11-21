@@ -4,9 +4,7 @@ Graduated in 2026 with a bachelor's in software engineering and stats minor. I'v
 
 ## Currently Learning
 
-I've been trying to get a better low-level understanding of computers, so that I have greater context when designing projects, writing code, or prompting LLMs. I'm doing some work in C to get a better understanding of memory management and pointers as I learn to work closer to the hardware. I'm also messing around with some embedded projects using a microcontroller (written in C++).
-
-Also been doing a good amount of sports analytics to try and stay up to date with statistical methods. Most of that work is done in Python.
+I've mainly been learning more about backend development as it pertains to professional roles. I spent some time building some lower level projects like HTTP servers, but I am now trying to put some of those mental models to use by using frameworks that allow for faster development. I've spent most of my time with Django and Spring Boot. Learning parts of both frameworks has allowed me to compare and contrast how different frameworks accomplish similar tasks.
 
 ## Other Interests
 
